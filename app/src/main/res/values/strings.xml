@@ -8,9 +8,15 @@
     <string name="default_notification_channel_name" translatable="true">Weather</string>
     <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
     <string name="fcm_message">FCM Message</string>
-    <string name="firebase_register_key">FirebaseRegisterKey</string>
-    <string name="server_domain">http://5e2e6050.ngrok.io</string>
-    <string name="ssn">SSN</string>
+
+
+    <!--domain of the server-->
+    <string name="server_domain">http://02a1c651.ngrok.io</string>
+
+
+    <!--All SharedPreferences key here-->
     <string name="PrefFileName">MyPrefsFile</string>
+    <string name="ssn">SSN</string>
+    <string name="firebase_register_key">FirebaseRegisterKey</string>
 
 </resources>
